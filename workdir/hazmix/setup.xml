@@ -4,5 +4,5 @@
 <hazmix-setup>
    <connect rel="servers/">
     <setup>buildertoolbox</setup>
-
+     <folder ver="1.0" place="workdir">
 </hazmix-setup>
