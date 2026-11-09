@@ -6,6 +6,6 @@
     <setup>buildertoolbox</setup>
      <folder ver="1.0" place="workdir">
  <files ver="1.0" required="cpp,db">
-   builder="Muhammad-Carl"
+   <builder="Muhammad-Carl">
 </files>
 </hazmix-setup>
